@@ -7,6 +7,6 @@
 </p>
 
 <p align='center'>
-  <img src='./assets/cat.gif',
+  <img src='./assets/cat.gif'
   style='max-width: 100px; height: auto;'>
 </p>
