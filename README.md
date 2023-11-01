@@ -7,5 +7,5 @@
 </p>
 
 <p align='center'>
-  <img src='./assets/tri.gif'>
+  <img src='./assets/cat.gif'>
 </p>
