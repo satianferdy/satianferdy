@@ -3,7 +3,7 @@
 </h2>
 
 <p align='center'>
-   <b>I'm an enthusiastic programming student, eager to learn and explore the world of coding. 
+   <i>"If You dont walk today, you'll have to run tomorrow"<i> 
 </p>
 
 <p align='center'>
