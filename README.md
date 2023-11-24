@@ -3,7 +3,7 @@
 </h2>
 
 <p align='center'>
-   <i>"If you dont walk today, you'll have to run tomorrow"<i> 
+   <i>"If you don't walk today, you'll have to run tomorrow"<i> 
 </p>
 
 <p align='center'>
