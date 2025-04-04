@@ -1,9 +1,9 @@
 <h2 align='center'>
-   Hi! There👋
+   Hi!👋
 </h2>
 
 <p align='center'>
-   <i>"If you don't walk today, you'll have to run tomorrow"<i> 
+   <i>"Small steps every day lead to big changes over time"<i> 
 </p>
 
 <p align='center'>
